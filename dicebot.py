@@ -1,3 +1,8 @@
+#Author: Brad
+#Last revision: 2019/1/22
+#Function: Roll dice in the format XdYdZ, X number of dice with Y sides. Z is optional, it drops Z dice that rolled the lowest.
+#Protip: If you want to run code just put a bot token in place of the XXXXXXXX on line 9.
+
 import discord
 import random
 
