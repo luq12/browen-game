@@ -1,3 +1,8 @@
+#Author: Brad
+#Last revision: 2019/1/24
+#Function: Test discord chat & bot interactions
+#Protip: If you want to run the code just put a bot token in place of the XXXXXXXX on line 11.
+
 import discord
 import random
 
